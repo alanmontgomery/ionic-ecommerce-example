@@ -1,0 +1,42 @@
+.homePage ion-toolbar {
+
+    --border-style: none;
+}
+
+.logo {
+
+    margin-top: 0.25rem;
+    color: var(--ion-color-primary);
+}
+
+.categoryCard,
+.categoryCardContent {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.categoryCardContent ion-button {
+
+    height: 1.5rem;
+    font-size: 0.8rem;
+}
+
+.categoryCardContent {
+
+    background-color: rgb(238, 238, 238);
+}
+
+.categoryCardContent ion-card-subtitle {
+
+    /* color: rgb(78, 78, 78); */
+}
+
+.categoryCard img {
+
+    /* border-radius: 5px; */
+    padding: 1rem;
+}

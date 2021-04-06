@@ -1,0 +1,10 @@
+.categoryPage ion-toolbar {
+
+    --border-style: none;
+}
+
+.search {
+
+    --background: rgb(240, 240, 240);
+    --color: black;
+}

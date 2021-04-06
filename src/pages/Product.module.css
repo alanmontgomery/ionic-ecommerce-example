@@ -1,0 +1,66 @@
+.categoryPage ion-toolbar {
+
+    --border-style: none;
+}
+
+.categoryCard {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.productCardActions {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.productCardAction {
+
+    font-size: 1.1rem;
+}
+
+.productCardHeader {
+
+    min-height: 17rem;
+}
+
+.productCardHeader p {
+
+    font-size: 1.2rem;
+    padding: 0;
+    margin: 0;
+    margin-top: 0.75rem;
+}
+
+.categoryCardContent {
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.categoryCardContent ion-button {
+
+    font-size: 0.8rem;
+}
+
+.categoryCardContent p {
+
+    font-size: 1.5rem;
+    padding: 0;
+    margin: 0;
+}
+
+.productPrice {
+
+    display: flex;
+    flex-direction: row;
+}
