@@ -21,6 +21,8 @@ const FavouriteProducts = () => {
 
         const getFavourites = () => {
 
+            setSearchResults([]);
+
             favourites.forEach(favourite => {
 
                 var favouriteParts = favourite.split("/");
