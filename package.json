@@ -1,6 +1,6 @@
 {
   "name": "ionic-ecommerce-example",
-  "homepage": "https://alanmontgomery.github.io/ionic-ecommerce-example",
+  "homepage": ".",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
