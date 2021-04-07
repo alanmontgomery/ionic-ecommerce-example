@@ -3,8 +3,8 @@
     "static/js/0.bf1d9bc9.chunk.js": "/ionic-ecommerce-example/static/js/0.bf1d9bc9.chunk.js",
     "static/js/0.bf1d9bc9.chunk.js.map": "/ionic-ecommerce-example/static/js/0.bf1d9bc9.chunk.js.map",
     "main.css": "/ionic-ecommerce-example/static/css/main.055ca353.chunk.css",
-    "main.js": "/ionic-ecommerce-example/static/js/main.61840c5e.chunk.js",
-    "main.js.map": "/ionic-ecommerce-example/static/js/main.61840c5e.chunk.js.map",
+    "main.js": "/ionic-ecommerce-example/static/js/main.fae93302.chunk.js",
+    "main.js.map": "/ionic-ecommerce-example/static/js/main.fae93302.chunk.js.map",
     "polyfills-dom.js": "/ionic-ecommerce-example/static/js/polyfills-dom.50959318.chunk.js",
     "polyfills-dom.js.map": "/ionic-ecommerce-example/static/js/polyfills-dom.50959318.chunk.js.map",
     "runtime-main.js": "/ionic-ecommerce-example/static/js/runtime-main.7e42a761.js",
@@ -130,6 +130,6 @@
     "static/css/4.672a8906.chunk.css",
     "static/js/4.4d587ac3.chunk.js",
     "static/css/main.055ca353.chunk.css",
-    "static/js/main.61840c5e.chunk.js"
+    "static/js/main.fae93302.chunk.js"
   ]
 }
