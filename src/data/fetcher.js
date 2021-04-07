@@ -30,7 +30,7 @@ export const fetchData = async () => {
 
 const fetchProducts = async category => {
 
-    const response = await fetch(`ionic-ecommerce-example/products/${ category }`);
+    const response = await fetch(`products/${ category }`);
     const data = await response.json();
 
     //  Set a product id
