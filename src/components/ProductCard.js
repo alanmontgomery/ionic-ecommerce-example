@@ -31,9 +31,10 @@ const ProductCard = props => {
         productFavouriteRef.current.classList.add("animate__fadeOutTopRight");
 
         setTimeout(() => {
-                
-            productFavouriteRef.current.classList.remove("animate__fadeOutTopRight");
-            productFavouriteRef.current.style.display = "none";
+            if (productCartRef.current) {
+                productFavouriteRef.current.classList.remove("animate__fadeOutTopRight");
+                productFavouriteRef.current.style.display = "none";
+            }
         }, 500);
     }
 
