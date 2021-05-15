@@ -4,16 +4,13 @@ An example of an E-Commerce shop in Ionic React
 ![Ionic React E-Commerce App](https://repository-images.githubusercontent.com/355272810/25392780-9707-11eb-95b2-bb9c6eefd313)
 
 ### Included in this Ionic React Template/UI
-* Data fetching from JSON files
-* Global state management with Pullstate
-* Custom animations
-* Fully functional add-to-cart and add-to-favourites
-* Total calculation in checkout
-* Ability to remove from cart
-* Category, Products, Single product, Cart, Favourites pages
-* Use of stock Ionic components
-* CSS Modules
-* Ionic CSS utilities
+* Utilising Ionic CSS variables
+* API fetch (dummy JSON)
+* Examples of how stock components look
+* 6 example themes to demonstrate
+* Low-code
+
+Note: I haven't overridden all available Ionic CSS variables, just some to demonstrate and some of the core, visually noticeable ones.
 
 ### To run
 
