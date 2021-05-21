@@ -1,7 +1,7 @@
 # ionic-ecommerce-example
 An example of an E-Commerce shop in Ionic React
 
-![Ionic React E-Commerce App](https://repository-images.githubusercontent.com/355272810/25392780-9707-11eb-95b2-bb9c6eefd313)
+![Ionic React E-Commerce App](https://repository-images.githubusercontent.com/355272810/38c79000-b5db-11eb-85d3-cf740d9c7507)
 
 ### Included in this Ionic React Template/UI
 * Data fetching from JSON files
