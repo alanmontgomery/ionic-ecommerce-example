@@ -73,7 +73,7 @@ const CategoryProducts = () => {
 			
 			<IonContent fullscreen>
 
-                <IonSearchbar className={ styles.search } onKeyUp={ search } placeholder="Search by name..." searchIcon={ searchOutline } animated={ true } />
+                <IonSearchbar className={ styles.search } onKeyUp={ search } placeholder="Try 'high back'" searchIcon={ searchOutline } animated={ true } />
 
                 <IonGrid>
 
