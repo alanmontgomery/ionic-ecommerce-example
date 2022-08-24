@@ -1,6 +1,7 @@
 import { Redirect, Route } from 'react-router-dom';
 import { IonApp, IonRouterOutlet } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
+import { setupIonicReact } from '@ionic/react';
 import Home from './pages/Home';
 
 /* Core CSS required for Ionic components to work properly */
@@ -27,6 +28,8 @@ import CategoryProducts from './pages/CategoryProducts';
 import Product from './pages/Product';
 import FavouriteProducts from './pages/FavouriteProducts';
 import CartProducts from './pages/CartProducts';
+
+setupIonicReact({});
 
 const App = () => {
 
